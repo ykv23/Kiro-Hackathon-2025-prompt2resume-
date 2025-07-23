@@ -8,7 +8,7 @@ User should be able to provide resume content in raw format (paragraph form), as
 
 What output will tool generate?
 
-Goal is for prompt2resume to be able to generate a pdf
+Goal is for prompt2resume to be able to generate a pdf. Wish to create an MVP
 
 How is this tool unique or different from other tools?
 
