@@ -33,9 +33,10 @@
 
 ## 🔜 Upcoming Milestones
 
+- [ ] Create and test NLP parser
 - [ ] Set up frontend + backend skeleton
 - [ ] Create first working pipeline: prompt → NLP → resume data
-- [ ] Implement journaling module
+- [ ] Connect front and backend
 - [ ] Add 1–2 resume templates
 - [ ] Render and export PDF
 - [ ] Polish UI & deploy
